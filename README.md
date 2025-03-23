@@ -37,5 +37,3 @@
 >
     Contactez-nous
 </a>
-<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-<dotlottie-player src="https://lottie.host/b21abee2-289a-4e4a-a723-30cae326b9e0/CXr70vgUGx.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
