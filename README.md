@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mukovivolonte@gmail.com**
 
-- 📄 Know about my experiences [Directeur Technique ▪ Février 2025 – en cours de l’exercice Innovation Group ▪ Lukanga (RDC Nord-Kivu Territoire de Luberon) Avoir déjà participer aux quelques projets du groupe  Campusface  SchoolManager AideVulnerable FridiUniluk]
+- 📄 Know about my experiences [Directeur Technique ▪ Février 2025 – en cours de l’exercice Innovation Group ▪ Lukanga (RDC Nord-Kivu Territoire de Luberon) Avoir déjà participer aux quelques projets du groupe  Campusface  SchoolManager etc.. ]
 
 - ⚡ Fun fact **Toujours passionné de son domaine est fière de l'être**
 
